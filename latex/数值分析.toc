@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}项目背景}{2}{section.1}%
+\contentsline {section}{\numberline {2}项目概览}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}主要功能}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}软件可视化部分}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}插值方法部分}{3}{subsection.2.3}%
+\contentsline {section}{\numberline {3}项目实现重点与细节}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}界面实现}{4}{subsection.3.1}%
+\contentsline {paragraph}{布局}{4}{paragraph*.2}%
+\contentsline {paragraph}{输入格式限制}{4}{paragraph*.3}%
+\contentsline {paragraph}{Calculate的逻辑}{5}{paragraph*.4}%
+\contentsline {paragraph}{显示}{6}{paragraph*.5}%
+\contentsline {subsection}{\numberline {3.2}插值实现}{6}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}牛顿插值法}{6}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}拉格朗日插值法}{6}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}三次样条插值}{6}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}绘图实现与集成}{7}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}matplotlib绘图}{7}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}集成到软件}{8}{subsubsection.3.3.2}%
+\contentsline {section}{\numberline {4}项目特点}{8}{section.4}%
+\contentsline {paragraph}{优秀的用户体验}{8}{paragraph*.6}%
+\contentsline {paragraph}{支持帮助文档}{8}{paragraph*.7}%
+\contentsline {paragraph}{资源占用}{9}{paragraph*.8}%
+\contentsline {paragraph}{计算的鲁棒性}{9}{paragraph*.9}%
+\contentsline {section}{\numberline {5}体会与总结}{9}{section.5}%
+\contentsline {section}{\numberline {6}附录}{9}{section.6}%
+\contentsline {subsection}{\numberline {6.1}软件程序源码及可执行文件}{9}{subsection.6.1}%
