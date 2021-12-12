@@ -157,7 +157,7 @@ class MyPyqtForm(QtWidgets.QWidget, Ui_Form):
             elif self.method == 'Cubic':
                 self.result = cubic(self.x_list, self.y_list, self.target)[0]
             self.show_in_browser()
-            # self.show_in_graph()
+            self.show_in_graph()
             self.auto_show_graph()
 
     def reset_fun(self):
