@@ -24,3 +24,4 @@
 \contentsline {section}{\numberline {5}体会与总结}{9}{section.5}%
 \contentsline {section}{\numberline {6}附录}{9}{section.6}%
 \contentsline {subsection}{\numberline {6.1}软件程序源码及可执行文件}{9}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}测试用例}{9}{subsection.6.2}%

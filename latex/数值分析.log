@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.13)  12 DEC 2021 12:20
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.13)  13 DEC 2021 10:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -614,18 +614,29 @@ File: about.png Graphic file (type bmp)
 File: fileerror.png Graphic file (type bmp)
 <fileerror.png>
  [8]
+File: xx.png Graphic file (type bmp)
+<xx.png>
+File: xxx.png Graphic file (type bmp)
+<xxx.png>
+File: sinx.png Graphic file (type bmp)
+<sinx.png>
+File: ex.png Graphic file (type bmp)
+<ex.png>
+File: logx.png Graphic file (type bmp)
+<logx.png>
+
 No file 数值分析.bbl.
-[9] (./数值分析.aux)
+[9] [10] [11] [12] (./数值分析.aux)
 Package rerunfilecheck Info: File `数值分析.out' has not changed.
-(rerunfilecheck)             Checksum: 32DA0BD364C2910D292FFEE66127B28B;1827.
+(rerunfilecheck)             Checksum: 37C834EE23F95FEC020EA82479278FF0;1917.
  ) 
 Here is how much of TeX's memory you used:
- 16391 strings out of 476919
- 346125 string characters out of 5823183
+ 16425 strings out of 476919
+ 346438 string characters out of 5823183
  822053 words of memory out of 5000000
- 36123 multiletter control sequences out of 15000+600000
+ 36153 multiletter control sequences out of 15000+600000
  407722 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,6n,104p,1190b,1752s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 数值分析.pdf (9 pages).
+Output written on 数值分析.pdf (12 pages).
