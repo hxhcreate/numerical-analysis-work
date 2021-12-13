@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import numpy as np
+
 import os
 from interpolation import *
 
@@ -32,7 +32,7 @@ def plot_and_save(x, y, target_x, result, method, times):
     if not os.path.exists(os.path.join(app_path(), "tmpresults")):
         os.mkdir(os.path.join(app_path(), "tmpresults"))
     plt.savefig(os.path.join(app_path(), "tmpresults\\" + str(times) + ".png"), bbox_inches='tight')
-    # plt.show()
+
 
 
 def plot_and_save_forCubic(x, y, target_x, result, X_range, Y_res, times):
@@ -45,14 +45,4 @@ def plot_and_save_forCubic(x, y, target_x, result, X_range, Y_res, times):
     if not os.path.exists(os.path.join(app_path(), "tmpresults")):
         os.mkdir(os.path.join(app_path(), "tmpresults"))
     plt.savefig(os.path.join(app_path(), "tmpresults\\" + str(times) + ".png"), bbox_inches='tight')
-    # plt.show()
-
-
-if __name__ == "__main__":
-    x = [1, 4, 9]
-    y = [1, 2, 3]
-    target = 7
-    result = 2.7
-    method = "Lagrange"
-    plot_and_save(x, y, target, result, method, 1)
 

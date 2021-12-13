@@ -1,5 +1,4 @@
 import numpy as np
-from sympy import *
 
 
 def mul(lst):

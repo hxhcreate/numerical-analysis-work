@@ -1,8 +1,8 @@
 import shutil
-from PyQt5 import QtWidgets, QtGui
-from PyQt5.QtWidgets import QApplication, QMessageBox, QFileDialog, QGraphicsView, QGraphicsScene, QGraphicsPixmapItem
-from PyQt5.QtCore import QRegExp, pyqtSignal, QObject
-from PyQt5.QtGui import QRegExpValidator, QImage, QPixmap
+from PyQt5 import QtWidgets
+from PyQt5.QtWidgets import QApplication, QMessageBox, QFileDialog, QGraphicsScene, QGraphicsPixmapItem
+from PyQt5.QtCore import QRegExp
+from PyQt5.QtGui import QRegExpValidator, QPixmap
 from PyQT_Form import Ui_Form
 from helpwindow import HelpPyqtForm
 

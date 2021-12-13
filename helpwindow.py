@@ -2,10 +2,9 @@ import os
 import shutil
 import sys
 
-from PyQt5 import QtWidgets, QtGui
-from PyQt5.QtWidgets import QApplication, QMessageBox, QFileDialog, QGraphicsView, QGraphicsScene, QGraphicsPixmapItem
-from PyQt5.QtCore import QRegExp, pyqtSignal, QObject
-from PyQt5.QtGui import QRegExpValidator, QImage, QPixmap
+from PyQt5 import QtWidgets
+from PyQt5.QtWidgets import QMessageBox
+
 from Help_Form import Ui_Help
 
 

@@ -1,7 +1,7 @@
 import sys
 from PyQt5 import QtWidgets
 from mainwindow import MyPyqtForm
-from helpwindow import HelpPyqtForm
+
 
 
 if __name__ == '__main__':
