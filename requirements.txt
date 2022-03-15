@@ -1,0 +1,55 @@
+altgraph @ file:///home/conda/feedstock_root/build_artifacts/altgraph_1632761154050/work
+auto-py-to-exe==2.11.0
+bottle==0.12.19
+bottle-websocket==0.2.9
+certifi==2021.10.8
+cffi==1.15.0
+charset-normalizer==2.0.9
+click==7.1.2
+cycler==0.11.0
+docopt==0.6.2
+Eel==0.12.4
+fonttools==4.28.2
+future @ file:///D:/bld/future_1635819659513/work
+gevent==21.8.0
+gevent-websocket==0.10.1
+greenlet==1.1.2
+idna==3.3
+kiwisolver==1.3.2
+macholib @ file:///home/conda/feedstock_root/build_artifacts/macholib_1595268426755/work
+matplotlib==3.5.0
+mpmath==1.2.1
+numpy @ file:///D:/bld/numpy_1636145500119/work
+opencv-python==4.5.4.60
+packaging==21.3
+pandas @ file:///D:/bld/pandas_1636223526752/work
+pefile @ file:///home/conda/feedstock_root/build_artifacts/pefile_1630688703091/work
+Pillow==8.4.0
+pipreqs==0.4.11
+pycparser==2.21
+pyinstaller @ file:///D:/bld/pyinstaller_1636823187166/work
+pyinstaller-hooks-contrib @ file:///home/conda/feedstock_root/build_artifacts/pyinstaller-hooks-contrib_1638323182017/work
+pyparsing==3.0.6
+PyQt5==5.15.4
+pyqt5-plugins==5.15.4.2.2
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+pyqt5-tools==5.15.4.3.2
+PyQtdoc==5.15.0
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+python-dotenv==0.19.2
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
+pywin32==302
+pywin32-ctypes @ file:///D:/bld/pywin32-ctypes_1635826703191/work
+qt5-applications==5.15.2.2.2
+qt5-tools==5.15.2.1.2
+requests==2.26.0
+setuptools-scm==6.3.2
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+sympy==1.9
+tomli==1.2.2
+urllib3==1.26.7
+whichcraft==0.6.1
+yarg==0.1.9
+zope.event==4.5.0
+zope.interface==5.4.0
